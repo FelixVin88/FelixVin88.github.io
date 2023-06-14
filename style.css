@@ -28,3 +28,92 @@
     text-align: left;
     display: flex;
 }
+
+#Hire {
+    width: 33.33%;
+    padding: 16px;
+    display: table-cell;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Project {
+
+}
+
+.Shalom {
+    width: 456px;
+    color: rgba(30,30,30,1);
+    position: absolute;
+    top: 145px;
+    left: 686px;
+    font-family: Kanit;
+    
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+.Graphic {
+    width: 571px;
+    color: rgba(230,120,40,1);
+    position: absolute;
+    top: 238px;
+    left: 686px;
+    font-family: Kanit;
+    font-size: 46px;
+    opacity: 1;
+    text-align: left;
+}
+
+.Biodata {
+    width: 501px;
+    color: rgba(30,30,30,1);
+    position: absolute;
+    top: 371px;
+    left: 687px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.Contact {
+    width: 456px;
+    color: rgba(30,30,30,1);
+    position: absolute;
+    top: 480px;
+    left: 687px;
+    font-family: Kanit;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+.Number {
+    width: 456px;
+    color: rgba(30,30,30,1);
+    position: absolute;
+    top: 532px;
+    left: 755px;
+    font-family: Kanit;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+.Email {
+    width: 456px;
+    color: rgba(30,30,30,1);
+    position: absolute;
+    top: 584px;
+    left: 755px;
+    font-family: Kanit;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
