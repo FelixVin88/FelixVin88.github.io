@@ -1,3 +1,30 @@
-.Portofolio {
+.blog {
     background-color: aliceblue;
+    display: flex;
+	align-items: center;
+	column-gap: 40px;
+    justify-content: right;
+    
+}
+.Portofolio{
+    background-color: aliceblue;
+    display: flex;
+	align-items: center;
+	column-gap: 40px;
+    justify-content: left;
+    padding: 1em;
+    margin: auto;
+}
+#intro {
+    width: 456px;
+    color: rgba(30,30,30,1);
+    position: absolute;
+    top: 145px;
+    left: 80px;
+    font-family: Kanit;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+    display: flex;
 }
