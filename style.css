@@ -1,3 +1,9 @@
+body {
+    padding: 1em;
+    margin: auto;
+    
+}
+
 .blog {
     background-color: aliceblue;
     display: flex;
@@ -38,7 +44,9 @@
 }
 
 #Project {
-
+    column-gap: 32px;
+    display: flex;
+    height: 500px;
 }
 
 .Shalom {
@@ -117,3 +125,24 @@
     opacity: 1;
     text-align: left;
 }
+
+ul{
+    display: flex;
+    list-style: none;
+    column-gap: 20px;
+    padding-left: 0;
+    text-align: center;
+}
+
+h1 {
+   text-align: center;
+   font-family: Kanit;
+   color: rgba(230,120,40,1); 
+}
+
+h3 {
+    text-align: center;
+    font-family: kanit;
+    color: rgba(230,120,40,1); 
+}
+
